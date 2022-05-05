@@ -5,6 +5,8 @@
 - Verificar documentação de CORS da [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS)
 - Como resolver um erro de Cross-Origin Resource Sharing (CORS)? [Alura](https://www.alura.com.br/artigos/como-resolver-erro-de-cross-origin-resource-sharing)
 - Entenda CORS de uma vez por todas! [Desenvolvimentoparaweb](https://desenvolvimentoparaweb.com/miscelanea/cors/)
+- CORS Enabled [W3](https://www.w3.org/wiki/CORS_Enabled)
+
  ## Vídeos Youtube
 
   - Canal [Código Fonte](https://www.youtube.com/watch?v=GZV-FUdeVwE)
